@@ -5,7 +5,7 @@ Mapty is a **front-end fitness website** built in 2022 as part of the Udemy cour
 ## Features
    - Log your running and cycling workouts on a map.
    - Track workout details such as distance, duration, and location.
-   - View workout history and easily switch between logged activities.
+   - View workout history and easily sort logged activities by distance and date.
 
 ## Getting Started
    - Clone the repository to your local machine.
